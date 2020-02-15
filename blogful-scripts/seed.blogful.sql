@@ -1,7 +1,7 @@
 BEGIN;
 INSERT INTO blogful_articles (title, date_published, content )
 VALUES
-('Fantasy Valentines + Mailbag Madness, Touchdown Music,' '2019-01-16 12:00:00', 'The Fantasy Footballers Podcast is back with a new episode right before Valentine’s Day!'  ),
+('Fantasy Valentines + Mailbag Madness, Touchdown Music', '2019-01-16', 'The Fantasy Footballers Podcast is back with a new episode right before Valentine’s Day!'  ),
 ('Shocking Stats from 2019 + Buy or Sell','2019-01-16','The Fantasy Footballers Podcast is back! Join us as we take a look back at some shocking stats from the 2019 season' ),
 ('2019 Rookie Review Show + MAN LUNGS', '2019-01-16', 'The Fantasy Footballers Podcast is back with a new show reviewing the fantasy seasons of the 2019 NFL rookie class! Just how surprisingly good were rookie WRs for fantasy football? '),
 ('Fantasy Footballers Podcast Recap: The TRUTH About Tight Ends in 2019','2019-01-16','Many times during 2019, I referred to the Tight End position in fantasy football as a wasteland and I stand by those words. If you didnt own Travis Kelce or George Kittle, chances are you were disappointed'),
